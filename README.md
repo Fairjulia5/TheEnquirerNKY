@@ -1,2 +1,2 @@
 # TheEnquirerNKY
-Data reporter Julia Fair used to cover NKY
+Data used by reporter Julia Fair used to cover NKY
